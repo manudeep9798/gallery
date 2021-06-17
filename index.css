@@ -1,0 +1,53 @@
+#photo1 {
+  background-color: yellow;
+  margin-left: 1%;
+  width: 100px;
+  height: 100px;
+  margin-top: 1%;
+}
+#photo2 {
+  background-color: red;
+  margin-left: 1%;
+  width: 100px;
+  height: 100px;
+  margin-top: 1%;
+}
+
+#photo3 {
+  background-color: blue;
+  margin-left: 1%;
+  width: 100px;
+  height: 100px;
+  margin-top: 1%;
+}
+
+#photo4 {
+  background-color: black;
+  margin-left: 1%;
+  width: 100px;
+  height: 100px;
+  margin-top: 1%;
+}
+
+#photo5 {
+  background-color: green;
+  margin-left: 1%;
+  width: 100px;
+  height: 100px;
+  margin-top: 1%;
+}
+#enlargedPhoto {
+  float: right;
+  margin-top: -43%;
+  background-color: tomato;
+  width: 85%;
+  height: 600px;
+  display: none;
+}
+
+.photo {
+  border-radius: 10px;
+}
+.selector:hover {
+  transform: scale(1.1);
+}
